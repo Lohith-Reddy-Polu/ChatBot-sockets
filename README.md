@@ -12,12 +12,6 @@ A Python-based chat application with GUI interface, secure message storage, and 
 🔹 **Secure message hashing** using SHA-256  
 🔹 **Chat history storage** in JSON format  
 🔹 **Public, private and group messaging**  
-🔹 **Tabbed interface** for different chat types  
-🔹 **Real-time message display**  
-🔹 **User and group management**  
-🔹 **Chat viewer utility** for viewing complete histories  
-🔹 **Search functionality** across all chats  
-🔹 **Export chats** to text files  
 
 ## File Structure
 
