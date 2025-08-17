@@ -1,0 +1,59 @@
+# Chat Application Requirements
+
+# External dependencies:
+PyQt5>=5.15.0
+
+# Standard library modules used:
+# - socket (networking)
+# - threading (concurrent connections)
+# - json (data storage)
+# - hashlib (secure message hashing)
+# - datetime (timestamps)
+# - os (file operations)
+# - typing (type hints)
+# - sys (system operations)
+# - argparse (command line parsing for chat viewer)
+
+# Python version: 3.6+
+
+# Installation:
+# pip install PyQt5
+
+# 
+# To run the application:
+# 1. Start the server: python server.py
+# 2. Start client(s): python client.py
+# 3. View chat history: python chat_viewer.py --help
+
+# Features included:
+# ✓ Socket-based networking
+# ✓ Multi-threaded server
+# ✓ PyQt5 GUI client interface
+# ✓ WhatsApp-like groups support
+# ✓ Group creation and management
+# ✓ Public, private and group messaging
+# ✓ Secure message hashing (SHA-256)
+# ✓ Chat history storage in JSON files
+# ✓ Tabbed interface for different chat types
+# ✓ Real-time message display
+# ✓ User and group management
+# ✓ Connection status indicators
+# ✓ Chat viewer utility for viewing complete chat histories
+# ✓ Search functionality across all chats
+# ✓ Export chats to text files
+# 
+# To run the application:
+# 1. Start the server: python server.py
+# 2. Start client(s): python client.py
+# 3. Multiple clients can connect simultaneously
+
+# Features included:
+# ✓ Socket-based networking
+# ✓ Multi-threaded server
+# ✓ GUI client interface
+# ✓ Public and private messaging
+# ✓ Secure message hashing (SHA-256)
+# ✓ Chat history storage in JSON files
+# ✓ Real-time message display
+# ✓ User management
+# ✓ Connection status indicators
