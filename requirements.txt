@@ -3,6 +3,7 @@
 # External dependencies:
 PyQt5>=5.15.0
 
+
 # Standard library modules used:
 # - socket (networking)
 # - threading (concurrent connections)
